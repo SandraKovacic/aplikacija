@@ -15,8 +15,7 @@
 ### PhoneGap/Build
 
 Create a new app with the following repository:
-
-    https://github.com/phonegap/phonegap-start.git
+    https://github.com/SandraKovacic/aplikacija.git
 
 ## Updating the Application
 
